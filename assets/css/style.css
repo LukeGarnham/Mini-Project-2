@@ -143,12 +143,12 @@ header {
 
 .menuitem span {
     display: block;
-    width: 1005;
+    width: 100%;
     padding-top: 5px;
     text-align: center;
     text-transform: uppercase;
     font-size: 14px;
-    font-weight: 300px;
+    font-weight: 300;
     letter-spacing: 2px;
 }
 
@@ -209,4 +209,16 @@ footer {
 
 #footer-details {
     padding: 20px;
+}
+
+/*--------------------------------------------Three Reasons */
+
+.three-reasons-icon {
+    font-size: 26px;
+    color: #e67e22;
+}
+
+.three-reasons-heading {
+    margin-bottom: 15px;
+
 }
